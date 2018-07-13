@@ -1,11 +1,8 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 21 12:55:52 2018
 
-@author: t1
-live graphing twitter sentiment
-"""
+#live graphing twitter sentiment
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib import style
