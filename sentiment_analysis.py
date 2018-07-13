@@ -1,11 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 12 14:12:13 2018
 
-@author: t1
-sentiment analysis
-"""
 import nltk
 from nltk.corpus import stopwords
 import re
