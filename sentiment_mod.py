@@ -1,11 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 15 19:52:32 2018
 
-@author: t1
-sentiment analysis 3
-"""
 from __future__ import division
 import pickle
 import nltk
